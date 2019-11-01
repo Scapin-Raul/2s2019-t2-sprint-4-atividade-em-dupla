@@ -1,0 +1,14 @@
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\bin\Debug\netcoreapp2.1\Cleveland.deps.json
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\bin\Debug\netcoreapp2.1\Cleveland.runtimeconfig.json
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\bin\Debug\netcoreapp2.1\Cleveland.runtimeconfig.dev.json
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\bin\Debug\netcoreapp2.1\Cleveland.dll
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\bin\Debug\netcoreapp2.1\Cleveland.pdb
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.csprojAssemblyReference.cache
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.csproj.CoreCompileInputs.cache
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.RazorAssemblyInfo.cache
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.RazorAssemblyInfo.cs
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.AssemblyInfoInputs.cache
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.AssemblyInfo.cs
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.RazorTargetAssemblyInfo.cache
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.dll
+C:\Users\46791749865\Desktop\2s2019\2s2019-t2-sprint-4-atividade-em-dupla\BACKEND\Cleveland\Cleveland\obj\Debug\netcoreapp2.1\Cleveland.pdb
